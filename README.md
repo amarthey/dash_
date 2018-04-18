@@ -35,21 +35,37 @@ pip install colorlover
 
 # Dependencies
 * Dash:
+
 dash==0.21.0
+
 dash-colorscales==0.0.4
+
 dash-core-components==0.22.0
+
 dash-html-components==0.10.0
+
 dash-renderer==0.12.1
+
 dash-table-experiments==0.6.0
+
 * Flask:
+
 Flask==0.12.2
+
 Flask-Compress==1.4.0
+
 Flask-Cors==3.0.2
+
 * Jupyter:
+
 jupyter==1.0.0
+
 jupyterlab==0.31.8
+
 * Numpy, Pandas:
+
 numpy==1.14.1
+
 pandas==0.22.0
 
 ## Screenshot
