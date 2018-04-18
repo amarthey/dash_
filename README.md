@@ -21,7 +21,7 @@ Here are the 3 data that you can analyse with the dashboard:
 
 ## Where to get it
 * Clone the repo
-* Will later by deploy on AWS
+* Will be deploy on AWS
 
 ## Pip install dependencies
 Make sure you have installed the following 
