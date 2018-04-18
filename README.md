@@ -1,4 +1,4 @@
-<p align="center">![Screenshot](dashboard.png)# dash_
+<p align="center"> # dash_
 
 ## What is it?
 This is repo is used to display interactive app powered by [Dash](https://plot.ly/products/dash/) (Dash is a Python framework for building analytical web applications.).
