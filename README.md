@@ -1,4 +1,4 @@
-#                                           dash_
+<p align="center">![Screenshot](dashboard.png)# dash_
 
 ## What is it?
 This is repo is used to display interactive app powered by [Dash](https://plot.ly/products/dash/) (Dash is a Python framework for building analytical web applications.).
@@ -53,9 +53,9 @@ numpy==1.14.1
 pandas==0.22.0
 
 ## Screenshot
-![Screenshot](dashboard.png)
-
-<a href="https://imgflip.com/gif/28g0e6"><img src="https://i.imgflip.com/28g0e6.gif" title="made at imgflip.com"/></a>
+<p align="center">![Screenshot](dashboard.png)
+<p align="center">![Screenshot](dashboard2.png)
+<p align="center"><a href="https://imgflip.com/gif/28g0e6"><img src="https://i.imgflip.com/28g0e6.gif" title="made at imgflip.com"/></a>
 
 ## Getting Help
 Please open an issue
