@@ -7,16 +7,21 @@ Click here to see [Dash gallery](https://dash.plot.ly/gallery)
 
 ## Main Features
 This dashboard uses the Kaggle data ['S&P 500 stock data - Historical stock data for all current S&P 500' companies'](https://www.kaggle.com/camnugent/sandp500/data)
+
 Here are the 3 data that you can analyse with the dashboard:
 * Raw data in a table
 * Pie chart of the average ratio of the stock volume over the time period selected
 * Time Series of the stock selected over the time period selected
 * High and Low value of each stock selected
 
+## Screenshot
+![Screenshot](dashboard.png)
+![Screenshot](dashboard2.png)
+<p align="center"><a href="https://imgflip.com/gif/28g0e6"><img src="https://i.imgflip.com/28g0e6.gif" title="made at imgflip.com"/></a>
+
 ## Where to get it
 * Clone the repo
 * Will later by deploy on AWS
-
 
 ## Pip install dependencies
 Make sure you have installed the following 
@@ -67,11 +72,6 @@ jupyterlab==0.31.8
 numpy==1.14.1
 
 pandas==0.22.0
-
-## Screenshot
-![Screenshot](dashboard.png)
-![Screenshot](dashboard2.png)
-<p align="center"><a href="https://imgflip.com/gif/28g0e6"><img src="https://i.imgflip.com/28g0e6.gif" title="made at imgflip.com"/></a>
 
 ## Getting Help
 Please open an issue
